@@ -5,7 +5,7 @@
 
 Compare **human evaluation**, **LLM-as-judge**, and **automatic metrics** on NLP tasks (QA, summarization, classification). Built for research teams who want to validate whether LLM judges can replace or augment human annotators.
 
-**Author:** Marzueh Babaali ([@mahsamb](https://github.com/mahsamb))
+**Author:** Marzieh Babaali ([@mahsamb](https://github.com/mahsamb))
 
 ---
 
@@ -175,7 +175,7 @@ If you use this framework in research, please cite the repository:
 
 ```bibtex
 @software{babaali2026llmjudgeeval,
-  author = {Babaali, Marzueh},
+  author = {Babaali, Marzieh},
   title = {LLM Judge Evaluation Framework},
   year = {2026},
   url = {https://github.com/mahsamb/llm-judge-eval-framework}
