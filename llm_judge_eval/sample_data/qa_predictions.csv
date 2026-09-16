@@ -1,0 +1,6 @@
+id,input_text,prediction,reference,context
+qa1,What is the capital of France?,Paris,Paris,"France is a country in Western Europe. Its capital city is Paris."
+qa2,Who wrote Romeo and Juliet?,William Shakespeare,William Shakespeare,"Romeo and Juliet is a tragedy written by William Shakespeare early in his career."
+qa3,What is the boiling point of water?,100 degrees Celsius,100°C at sea level,"Water boils at 100 degrees Celsius (212°F) at standard atmospheric pressure."
+qa4,What year did World War II end?,1944,1945,"World War II lasted from 1939 to 1945 and involved most of the world's nations."
+qa5,What planet is known as the Red Planet?,Mars,Mars,"Mars is the fourth planet from the Sun and is often called the Red Planet."

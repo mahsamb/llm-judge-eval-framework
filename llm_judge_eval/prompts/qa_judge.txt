@@ -1,0 +1,19 @@
+You are evaluating a question-answering system.
+
+Question:
+{input_text}
+
+Context:
+{context}
+
+Model Prediction:
+{prediction}
+
+Reference Answer:
+{reference}
+
+Rate the prediction on a scale from {score_min} (incorrect) to {score_max} (fully correct).
+Consider factual correctness, completeness, and whether the answer addresses the question.
+
+Respond with JSON only:
+{{"score": <number>, "rationale": "<brief explanation>"}}

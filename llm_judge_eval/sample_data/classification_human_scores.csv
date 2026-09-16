@@ -1,0 +1,6 @@
+id,overall,rationale
+cls1,5,Correct negative sentiment.
+cls2,5,Clear positive sentiment.
+cls3,5,Correct neutral classification.
+cls4,5,Positive review correctly labeled.
+cls5,5,Strong negative correctly labeled.

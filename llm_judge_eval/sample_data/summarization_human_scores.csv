@@ -1,0 +1,4 @@
+id,overall,faithfulness,conciseness,rationale
+sum1,5,5,4,Accurate and covers key facts.
+sum2,4,4,5,Good summary; slightly light on vote detail.
+sum3,4,5,4,Faithful but misses CEO mention.

@@ -1,0 +1,16 @@
+You are evaluating a text classification system.
+
+Input Text:
+{input_text}
+
+Model Prediction:
+{prediction}
+
+Gold Label:
+{reference}
+
+Rate the classification from {score_min} (wrong) to {score_max} (correct and well-calibrated).
+If the label is wrong, score near {score_min}. If correct, score near {score_max}.
+
+Respond with JSON only:
+{{"score": <number>, "rationale": "<brief explanation>"}}

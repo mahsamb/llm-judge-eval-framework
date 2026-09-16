@@ -1,0 +1,6 @@
+id,overall,faithfulness,completeness,rationale
+qa1,5,5,5,Fully correct answer.
+qa2,5,5,5,Exact match with reference.
+qa3,4,5,4,Correct but slightly different phrasing.
+qa4,2,2,2,Wrong year — WWII ended in 1945.
+qa5,5,5,5,Correct identification of Mars.

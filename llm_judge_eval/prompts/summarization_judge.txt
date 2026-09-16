@@ -1,0 +1,16 @@
+You are evaluating a text summarization system.
+
+Source Document:
+{input_text}
+
+Model Summary:
+{prediction}
+
+Reference Summary:
+{reference}
+
+Rate the summary from {score_min} (poor) to {score_max} (excellent).
+Consider faithfulness, coverage of key points, conciseness, and readability.
+
+Respond with JSON only:
+{{"score": <number>, "rationale": "<brief explanation>"}}

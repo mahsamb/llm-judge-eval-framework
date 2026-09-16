@@ -1,0 +1,6 @@
+id,input_text,prediction,reference
+cls1,This product broke after one day. Terrible quality and waste of money.,negative,negative
+cls2,Absolutely love it! Best purchase I've made this year.,positive,positive
+cls3,Delivery was late but the item works fine.,neutral,neutral
+cls4,Great customer service and fast shipping.,positive,positive
+cls5,Completely unusable. Do not buy.,negative,negative
